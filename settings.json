@@ -6,15 +6,15 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "ploakpvp.aternos.me",
+    "port": 15743,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 9999999999999,
     "z": 0
   },
   "utils": {
